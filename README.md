@@ -8,19 +8,19 @@ What I'm intrested to know deeply is listed below. I will be adding a folder for
 
 
 * Web development.
-  -HTML
-  -CSS
-  -JavaScript
+  <br>-HTML
+  <br>-CSS
+  <br>-JavaScript
 * Data Science.
 * Natural Language Processing.
 * Programing Languages.
-  -Java
-  -Python
-  -C
-  -C#
+ <br>-Java
+  <br>-Python
+  <br>-C
+  <br>-C#
 * Database 
-  -MySQL
+  <br>-MySQL
   
   
-*Learn and Write. *
+<b>Learn and Write.</b> 
 
